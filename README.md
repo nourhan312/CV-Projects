@@ -8,3 +8,7 @@ It supports detecting two hands simultaneously and overlays the predicted class 
 
 
 
+https://github.com/user-attachments/assets/0a414bab-8a07-44d3-8b84-5c19f5d4162e
+
+
+
